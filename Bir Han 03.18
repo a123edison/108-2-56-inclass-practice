@@ -1,0 +1,34 @@
+---
+title: "bIR"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Package
+
+```{r}
+install.packages(c("googlesheets4","tidyverse"))
+```
+
+安裝package
+install.packages(c("dplyr", "lubridate"))
+
+```{r}
+library(googlesheets4)
+library(dplyr)
+library(lubridate)
+```
+
+## Create object
+-
+```{r}
+a <- 2
+a = 2 # = 與 <-同義
+```
+-
+```{r}
+3 -> b 
+```
