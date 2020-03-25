@@ -1,0 +1,22 @@
+---
+title: '20200325'
+author: '"陳柏翰"'
+date: "2020/3/25"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+```{r}
+C(value1, value2, value3)
+num1 <- 5
+vNum1 <- c(2,5)
+vNum2 <- c(2, num1)
+```
+
+```{r}
+
