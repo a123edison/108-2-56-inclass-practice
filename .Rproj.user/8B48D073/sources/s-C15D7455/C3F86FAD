@@ -5,16 +5,16 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2325738016",
+    "hash" : "1618002217",
     "id" : "C3F86FAD",
-    "lastKnownWriteTime" : 1584513467,
-    "last_content_update" : 1584513468236,
-    "path" : "~/GitHub/108-2-56-inclass-practice/Bir Han 03.18",
-    "project_path" : "Bir Han 03.18",
+    "lastKnownWriteTime" : 1584515034,
+    "last_content_update" : 1584515034573,
+    "path" : "~/GitHub/108-2-56-inclass-practice/Bir Han 03.18.Rmd",
+    "project_path" : "Bir Han 03.18.Rmd",
     "properties" : {
-        "cursorPosition" : "33,3",
-        "last_setup_crc32" : "1F63EE11bb338d19",
-        "scrollLine" : "0",
+        "cursorPosition" : "21,18",
+        "last_setup_crc32" : "",
+        "scrollLine" : "20",
         "tempName" : "Untitled1"
     },
     "read_only" : false,
@@ -23,5 +23,5 @@
     "relative_order" : 3,
     "source_on_save" : false,
     "source_window" : "",
-    "type" : "text"
+    "type" : "r_markdown"
 }

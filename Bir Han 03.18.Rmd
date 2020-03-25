@@ -22,6 +22,9 @@ library(dplyr)
 library(lubridate)
 ```
 
+```{r}    
+```
+
 ## Create object
 -
 ```{r}
@@ -31,4 +34,9 @@ a = 2 # = 與 <-同義
 -
 ```{r}
 3 -> b 
+```
+
+```{r}
+我的年紀 -> 20
+My age <- 我的年紀
 ```
