@@ -1,0 +1,34 @@
+---
+title: '20200419'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+```{r}
+str(listExample)
+```
+```{r}
+listExample[[1]]
+listExample[[2]]
+```
+
+```{r}
+get1 <- listExample[["學期"]]
+get2 <- listExample["學期"]
+```
+```{r}
+str(get1)
+```
+
+
+
+
+
+
+
+
+
